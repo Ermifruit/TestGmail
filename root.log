@@ -1,0 +1,44 @@
+2019-04-24 06:32:53 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-24 06:32:56 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-24 06:32:56 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-24 06:32:56 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-24 06:32:57 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-24 06:32:57 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-24 06:32:57 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-24 06:33:09 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-24 06:33:18 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-24 06:33:21 INFO  TC_01_Authorization:19 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-24 06:33:21 INFO  TC_01_Authorization:21 - =====Step2===== Email
+2019-04-24 06:33:22 INFO  TC_01_Authorization:23 - =====Step3===== Click next button
+2019-04-24 06:33:22 INFO  TC_01_Authorization:25 - =====Step4===== password
+2019-04-24 06:33:22 INFO  TC_01_Authorization:27 - =====Step5===== loIn
+2019-04-24 06:33:23 INFO  TC_01_Authorization:32 - =====Step1===== Click profile button
+2019-04-24 06:33:33 INFO  TC_01_Authorization:34 - =====Step2===== LogOut
+2019-04-24 06:33:36 INFO  TC_01_Authorization:36 - =====Step3===== Chek logo main page
+2019-04-24 06:33:37 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-24 06:36:36 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-24 06:36:39 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-24 06:36:39 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-24 06:36:39 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-24 06:36:39 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-24 06:36:40 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-24 06:36:40 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-24 06:36:49 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-24 06:42:20 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-24 06:42:23 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-24 06:42:23 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-24 06:42:23 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-24 06:42:24 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-24 06:42:24 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-24 06:42:25 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-24 06:42:34 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-24 06:44:12 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-24 06:44:15 INFO  TC_01_Authorization:19 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-24 06:44:15 INFO  TC_01_Authorization:21 - =====Step2===== Email
+2019-04-24 06:44:16 INFO  TC_01_Authorization:23 - =====Step3===== Click next button
+2019-04-24 06:44:16 INFO  TC_01_Authorization:25 - =====Step4===== password
+2019-04-24 06:44:17 INFO  TC_01_Authorization:27 - =====Step5===== loIn
+2019-04-24 06:44:17 INFO  TC_01_Authorization:32 - =====Step1===== Click profile button
+2019-04-24 06:44:27 INFO  TC_01_Authorization:34 - =====Step2===== LogOut
+2019-04-24 06:44:29 INFO  TC_01_Authorization:36 - =====Step3===== Chek logo main page
+2019-04-24 06:44:30 INFO  BaseTest:29 - Finish Test on  Chrome
