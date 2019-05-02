@@ -1,44 +1,219 @@
-2019-04-24 06:32:53 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
-2019-04-24 06:32:56 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
-2019-04-24 06:32:56 INFO  TC_01_Authorization:20 - =====Step2===== Email
-2019-04-24 06:32:56 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
-2019-04-24 06:32:57 INFO  TC_01_Authorization:24 - =====Step4===== password
-2019-04-24 06:32:57 INFO  TC_01_Authorization:26 - =====Step5===== loIn
-2019-04-24 06:32:57 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
-2019-04-24 06:33:09 INFO  BaseTest:29 - Finish Test on  Chrome
-2019-04-24 06:33:18 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
-2019-04-24 06:33:21 INFO  TC_01_Authorization:19 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
-2019-04-24 06:33:21 INFO  TC_01_Authorization:21 - =====Step2===== Email
-2019-04-24 06:33:22 INFO  TC_01_Authorization:23 - =====Step3===== Click next button
-2019-04-24 06:33:22 INFO  TC_01_Authorization:25 - =====Step4===== password
-2019-04-24 06:33:22 INFO  TC_01_Authorization:27 - =====Step5===== loIn
-2019-04-24 06:33:23 INFO  TC_01_Authorization:32 - =====Step1===== Click profile button
-2019-04-24 06:33:33 INFO  TC_01_Authorization:34 - =====Step2===== LogOut
-2019-04-24 06:33:36 INFO  TC_01_Authorization:36 - =====Step3===== Chek logo main page
-2019-04-24 06:33:37 INFO  BaseTest:29 - Finish Test on  Chrome
-2019-04-24 06:36:36 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
-2019-04-24 06:36:39 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
-2019-04-24 06:36:39 INFO  TC_01_Authorization:20 - =====Step2===== Email
-2019-04-24 06:36:39 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
-2019-04-24 06:36:39 INFO  TC_01_Authorization:24 - =====Step4===== password
-2019-04-24 06:36:40 INFO  TC_01_Authorization:26 - =====Step5===== loIn
-2019-04-24 06:36:40 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
-2019-04-24 06:36:49 INFO  BaseTest:29 - Finish Test on  Chrome
-2019-04-24 06:42:20 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
-2019-04-24 06:42:23 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
-2019-04-24 06:42:23 INFO  TC_01_Authorization:20 - =====Step2===== Email
-2019-04-24 06:42:23 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
-2019-04-24 06:42:24 INFO  TC_01_Authorization:24 - =====Step4===== password
-2019-04-24 06:42:24 INFO  TC_01_Authorization:26 - =====Step5===== loIn
-2019-04-24 06:42:25 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
-2019-04-24 06:42:34 INFO  BaseTest:29 - Finish Test on  Chrome
-2019-04-24 06:44:12 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
-2019-04-24 06:44:15 INFO  TC_01_Authorization:19 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
-2019-04-24 06:44:15 INFO  TC_01_Authorization:21 - =====Step2===== Email
-2019-04-24 06:44:16 INFO  TC_01_Authorization:23 - =====Step3===== Click next button
-2019-04-24 06:44:16 INFO  TC_01_Authorization:25 - =====Step4===== password
-2019-04-24 06:44:17 INFO  TC_01_Authorization:27 - =====Step5===== loIn
-2019-04-24 06:44:17 INFO  TC_01_Authorization:32 - =====Step1===== Click profile button
-2019-04-24 06:44:27 INFO  TC_01_Authorization:34 - =====Step2===== LogOut
-2019-04-24 06:44:29 INFO  TC_01_Authorization:36 - =====Step3===== Chek logo main page
-2019-04-24 06:44:30 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 00:29:26 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 00:29:29 INFO  TC_01_Authorization:19 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 00:29:29 INFO  TC_01_Authorization:21 - =====Step2===== Email
+2019-04-27 00:29:30 INFO  TC_01_Authorization:23 - =====Step3===== Click next button
+2019-04-27 00:29:30 INFO  TC_01_Authorization:25 - =====Step4===== password
+2019-04-27 00:29:30 INFO  TC_01_Authorization:27 - =====Step5===== logIn
+2019-04-27 00:29:31 INFO  TC_01_Authorization:32 - =====Step1===== Click profile button
+2019-04-27 00:29:43 INFO  TC_01_Authorization:34 - =====Step2===== LogOut
+2019-04-27 00:29:45 INFO  TC_01_Authorization:36 - =====Step3===== Chek logo main page
+2019-04-27 00:29:46 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 00:30:47 INFO  TC_01_Authorization:25 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 00:36:50 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 00:37:10 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 00:41:40 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 00:41:43 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 00:41:43 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 00:41:44 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 00:41:44 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 00:41:44 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 00:41:45 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 00:42:56 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 00:44:41 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 00:44:44 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 00:44:44 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 00:44:44 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 00:44:44 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 00:44:45 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 00:44:45 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 00:44:56 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 00:48:07 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 00:48:10 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 00:48:10 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 00:48:10 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 00:48:10 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 00:48:11 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 00:48:11 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 00:48:16 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 00:54:51 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 00:54:54 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 00:54:54 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 00:54:54 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 00:54:54 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 00:54:55 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 00:54:55 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 00:55:09 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 00:56:01 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 00:56:04 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 00:56:04 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 00:56:04 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 00:56:05 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 00:56:05 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 00:56:05 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 00:57:18 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 01:18:52 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 01:18:55 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 01:18:55 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 01:18:55 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 01:18:55 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 01:18:56 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 01:18:57 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 01:20:25 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 01:20:28 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 01:20:28 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 01:20:28 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 01:20:28 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 01:20:29 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 01:20:29 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 01:21:40 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 01:24:40 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 01:24:42 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 01:24:43 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 01:24:43 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 01:24:43 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 01:24:44 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 01:24:44 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 01:25:55 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 01:29:20 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 01:29:23 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 01:29:23 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 01:29:23 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 01:29:23 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 01:29:24 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 01:29:24 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 01:30:36 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 01:33:52 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 01:33:55 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 01:33:55 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 01:33:55 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 01:33:55 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 01:33:56 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 01:33:57 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 01:35:08 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 01:38:24 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 01:38:27 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 01:38:27 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 01:38:28 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 01:38:28 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 01:38:28 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 01:38:29 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 01:39:40 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 01:44:41 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 01:44:44 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 01:44:44 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 01:44:45 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 01:44:45 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 01:44:45 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 01:44:46 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 01:45:17 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 01:49:00 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 01:49:03 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 01:49:03 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 01:49:03 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 01:49:03 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 01:49:04 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 01:49:04 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 01:50:15 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 01:50:58 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 01:51:02 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 01:51:02 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 01:51:02 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 01:51:02 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 01:51:03 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 01:51:03 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 01:51:34 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 01:58:25 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 01:58:28 INFO  TC_01_Authorization:17 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 01:58:28 INFO  TC_01_Authorization:20 - =====Step2===== Email
+2019-04-27 01:58:28 INFO  TC_01_Authorization:22 - =====Step3===== Click next button
+2019-04-27 01:58:29 INFO  TC_01_Authorization:24 - =====Step4===== password
+2019-04-27 01:58:30 INFO  TC_01_Authorization:26 - =====Step5===== loIn
+2019-04-27 01:58:30 INFO  TC_01_Authorization:28 - =====Step6===== Gmail logo
+2019-04-27 01:58:48 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 02:00:39 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 02:00:53 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 02:07:09 INFO  TC_01_Authorization:23 - =====Step1===== The page "https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AddSession" is open
+2019-04-27 02:07:10 INFO  TC_01_Authorization:47 - =====Step1===== Click profile button
+2019-04-27 02:10:32 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 02:11:36 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 02:12:09 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 02:13:14 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 02:18:09 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 02:18:14 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 02:22:06 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 02:22:12 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 02:23:02 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 02:23:20 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-04-27 02:24:20 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-04-27 02:24:38 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:28:52 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:28:57 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:30:03 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:31:08 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:31:20 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:33:08 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:34:56 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:35:53 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:38:01 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:39:20 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:40:12 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:41:11 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:42:37 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:43:11 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:46:38 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:46:44 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:46:58 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:48:22 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:50:25 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:50:44 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:55:00 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:55:07 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:55:17 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:55:38 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:58:06 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:58:11 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-02 23:58:30 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-02 23:58:48 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:02:29 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:02:46 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:03:14 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:03:29 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:03:53 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:04:10 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:05:18 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:05:38 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:17:54 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:18:40 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:19:53 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:19:59 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:20:09 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:20:14 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:20:31 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:20:53 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:21:25 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:21:44 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:23:31 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:23:47 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:28:23 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:28:29 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:30:43 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:31:06 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:48:36 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:48:56 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 00:53:47 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 00:53:52 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 01:02:50 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 01:02:56 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 01:03:25 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 01:03:30 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 01:08:55 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 01:09:42 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 01:10:31 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 01:10:41 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 01:12:58 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 01:13:10 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 01:27:09 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 01:27:30 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-05-03 01:29:48 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 01:30:20 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-05-03 01:30:41 INFO  BaseTest:29 - Finish Test on  Chrome

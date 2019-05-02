@@ -2,32 +2,44 @@ package pages;
 
 import forms.GmailForm;
 import forms.PasswordForm;
+import forms.SendForm;
 import newtest.BaseElement;
 import forms.LoginForm;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import java.io.IOException;
 
 
 public class MainPage extends BaseElement {
-    private String cssMainLogo = "#logo";
+    private String xPathMainLogo = "//*[contains(@class,'qZp31e')]";
     private String cssLoginNextButton = "#identifierNext > content > span";
     private String cssPasswordNext = "#passwordNext > content > span";
-    private String cssGmailLogo = "#gb > div.gb_gd.gb_Md.gb_od > div.gb_lc.gb_qc.gb_la.gb_sc > div.gb_Rb > div > a";
-    private String cssProfileButton = "#gb > div.gb_gd.gb_Md.gb_od > div.gb_mc.gb_Ja.gb_lc.gb_Jd > div > div.gb_Ea.gb_Fc.gb_7f.gb_f.gb_hf > div > a";
+    private String cssGmailLogo = "#\\3a 3z > div > div";
+    private String xPathProfileButton = "//*[contains(@class,'gb_ya gbii')]";
+    private String cssSendGmailButton = ".aic .z0 div";
+    private String xPathClickButtonSendMessage = "//*[contains(@class,'T-I J-J5-Ji aoO v7 T-I-atl L3')]";
+    private String xPathChekSendMail = "//*[contains(@aria-label,'Входящие 1')]";
     private LoginForm loginForm = new LoginForm();
     private PasswordForm passwordForm = new PasswordForm();
     private GmailForm gmailForm = new GmailForm();
+    private SendForm sendForm = new SendForm();
+
 
 
 
 
     public MainPage() throws IOException {
+
     }
 
     public boolean isMainLogo(){
-        WebElement mainLogo = driver.findElement(By.cssSelector(cssMainLogo));
+        WebElement mainLogo = driver.findElement(By.xpath(xPathMainLogo));
         return mainLogo.isDisplayed();
+    }
+    public boolean sendMail(){
+        WebElement sendCheck = driver.findElement(By.xpath(xPathChekSendMail));
+        return sendCheck.isDisplayed();
     }
 
     public void login(){
@@ -54,15 +66,35 @@ public class MainPage extends BaseElement {
     }
 
     public void clickProfileButon(){
-        WebElement profileButton = driver.findElement(By.cssSelector(cssProfileButton));
+        WebElement profileButton = driver.findElement(By.xpath(xPathProfileButton));
         profileButton.click();
     }
 
-    public void logout() throws IOException, InterruptedException {
+    public void logout() throws IOException {
         gmailForm.clickLogOutButon();
     }
 
+    public void sendGmailButton (){
+        WebElement sendButton = driver.findElement(By.cssSelector(cssSendGmailButton));
+        sendButton.click();
+    }
 
+    public void clickSendMessage(){
+        WebElement sendMessage = driver.findElement(By.xpath(xPathClickButtonSendMessage));
+        sendMessage.click();
+    }
+
+    public void adress(){
+        sendForm.gmailAdress();
+    }
+
+    public void topic(){
+        sendForm.gmailTopic();
+    }
+
+    public void text(){
+        sendForm.gmailText();
+    }
 
 
 
